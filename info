@@ -1,6 +1,6 @@
 putduty.com
 
-özet : trello clone ancak görüntülü toplantı ve online chat olacak
+özet : trello clone ancak görüntülü toplantı ve online chat olacak, çıkış yolu trello idi ancak jira scrum methodu içinde harmanlama yapılabilir.
 notlar:
     yıllık, aylık ve haftalık planlar olacak; yıllık plan aylık planlardan, aylık plan haftalık planlardan, haftalık plan günlük planlardan oluşacaktır
     ms project gibi bir yapı olacak hem chart hem de card görünümlü

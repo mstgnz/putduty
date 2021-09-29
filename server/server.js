@@ -28,6 +28,6 @@ app.use(errorMiddleware);
 app.use(express.static(path.join(__dirname, "public")))
 
 // Listen
-app.listen(PORT, ()=>{
-    console.log(`App start on http://localhost:${process.env.PORT}`);
+app.listen(PORT, () => {
+    console.log(`App start on http://localhost:${PORT}`);
 });
